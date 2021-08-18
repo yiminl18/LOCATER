@@ -1,6 +1,6 @@
 Please follow the steps to run the codes.
 
-1. You need to the ../src/location_prediction-master/, use the code python server.py to run the python codes;
+1. You need to the ../src/location_prediction-master/, use the code python/python3 server.py to run the python codes;
 2. Make sure mysql service is on. 
 3. modify the credential.txt to the username and password of your mysql;
 4. The code you should run is in the ../src/localizationDB/LocalizationDB.java
